@@ -1,0 +1,5 @@
+data/raw/*.XPT
+data/processed/*.csv
+
+.DS_Store
+Thumbs.db

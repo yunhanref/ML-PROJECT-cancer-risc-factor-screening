@@ -1,0 +1,20 @@
+Ana Değişkenler:
+CHCOCNC1: Ever told you had melanoma or any other types of cancer? (30 categories of cancer)
+
+Bağımsız Değişkenler:
+
+CHCSCNC1: Ever told you had skin cancer that is not melanoma?
+CHECKUP1: About how long has it been since you last visited a doctor for a routine checkup?
+_AGEG5YR: How old are you? (14 level age category)
+SMOKE100: Have you ever smoked at least 100 cigarettes in your entire life?
+DIABETE4: Ever told you had diabetes?
+EXERANY2: During the past month, other than your regular job, did you do participate in any physical activites or exersices?
+ASTHMA3: Ever told you had asthma?
+CHCKDNY2: Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
+HAVARTH4: Ever told you had some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia?
+CVDINFR4: Ever told you had a heart attack, also called a myocardial infarction?
+PERSDOC3: Do you have one person or a group of doctors that you think as your personal health are provider?
+_RFHLTH: Adults with good or better health
+INCOME3: What is your annual household income from all sources? (11 categories of income)
+EDUCA: What is the highest grade or year of school you completed?
+_BMI5CAT: What is your Body Mass Index? (4 categories of BMI)
