@@ -44,7 +44,7 @@ Here are my specific technical contributions to the Cancer Screening ML Project:
 <div align="center">
   <img alt="lr_confusion" src="img/confusion_and_classification.png" />
   <img alt="lr_confusion" src="img/rocauc_and_precisionrecall.png" />
-  <img alt="lr_confusion" src="img/degisken_etkiler_lr.png" />
+  <img alt="lr_confusion" src="img/degisken_etkiler_lr.png" width=%75 height=%75/>
 </div>  
 
 ## Data Set: 2024 CDC BRFSS
